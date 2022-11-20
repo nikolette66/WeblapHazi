@@ -1,2 +1,2 @@
-# WeblapHazi
-WeblapHazi
+# Lorem-ipsum-dolor
+ Leírás
